@@ -1,34 +1,63 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Promptpedia
+
+Promptpedia is an open-source repository for sharing and discovering AI prompts. Whether you're working with ChatGPT, Gemini, or other generative AI tools, Promptpedia provides a curated collection of prompts to inspire your projects and enhance your AI interactions.
+
+## Live Demo
+
+Check out the live site: [promptpedia-zeta.vercel.app](https://promptpedia-zeta.vercel.app)
+
+## Features
+
+- **Discover AI Prompts:** Browse a growing library of prompts for various AI models.
+- **Share Your Own:** Contribute your favorite or custom prompts to help others.
+- **Community Driven:** Built for and by AI enthusiasts.
+- **Easy to Use:** Simple interface for both browsing and submitting prompts.
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- Node.js and npm installed on your machine.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Installation
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Keshavs8055/promptpedia.git
+   cd promptpedia
+   ```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
 
-## Learn More
+3. **Start the development server:**
+   ```bash
+   npm start
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+4. **Visit the app locally:**
+   Open your browser and go to `http://localhost:3000`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Usage
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Browse prompts by category or model.
+- Submit new prompts via the interface.
+- Use prompts directly in your favorite AI tools.
 
-## Deploy on Vercel
+## Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Contributions are welcome! If you'd like to add new prompts, improve the UI, or suggest features:
+- Fork the repository
+- Create a pull request
+- Open an issue for discussion
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## License
+
+This project currently does not specify a license.
+
+## Author
+
+Developed by [Keshavs8055](https://github.com/Keshavs8055)
+
