@@ -55,7 +55,7 @@ Contributions are welcome! If you'd like to add new prompts, improve the UI, or 
 
 ## License
 
-This project currently does not specify a license.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
